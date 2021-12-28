@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.92",
+    "versionInt": 92,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.92-release.apk",
+    "desc": "- Исправления, исправления, исправления, баги и что-то ещё\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.91",
     "versionInt": 91,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.91-release.apk",
