@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.95",
+    "versionInt": 95,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.95-release.apk",
+    "desc": "- Поправил ошибки текущего релиза\n- Добавил скрытие панели навигации\n- Сделал динамический размер постеров\n\nВсе это сделал @tsynik"
+  },
+  {
     "version": "1.0.94",
     "versionInt": 94,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.94-release.apk",
