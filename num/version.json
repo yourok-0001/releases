@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.98",
+    "versionInt": 98,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.98-release.apk",
+    "desc": "- Исправление багов\n- Добавление багов\n- Сегодня без багов\n- Завтра надеюсь тоже\n- Не забываем заходить на сайт torlook.info\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.97",
     "versionInt": 97,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.97-release.apk",
