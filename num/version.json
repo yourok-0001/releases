@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.99",
+    "versionInt": 99,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.99-release.apk",
+    "desc": "- Опция удаления дубликатов торрентов\n- Исправления поиска торрентов\n- Показ всех подборок по умолчанию\n- Улучшения в интерфейсе\n- Встроенный VPN-клиент обхода блокировок\n- Новые настройки приложения\n- Исправление навигации после открытия из канала АТВ\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.98",
     "versionInt": 98,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.98-release.apk",
