@@ -1,5 +1,11 @@
 [
   {
+    "version": "MatriX.113",
+    "versionInt": 113,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.113.Client/TorrServe_MatriX.113.Client-release.apk",
+    "desc": "- Исправление бага с запуском сервера"
+  },
+  {
     "version": "MatriX.112",
     "versionInt": 112,
     "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.112.Client/TorrServe_MatriX.112.Client-release.apk",
