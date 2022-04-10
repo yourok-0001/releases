@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.102",
+    "versionInt": 102,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.102-release.apk",
+    "desc": "- Вернул тмдб на место, публичный сервер не справляется, будет инструкция как поставить свой антизапрет\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.101",
     "versionInt": 101,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.101-release.apk",
