@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.101",
+    "versionInt": 101,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.101-release.apk",
+    "desc": "- Правки в тмдб, теперь через временный прокси lkf0x.ru\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.100",
     "versionInt": 100,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.100-release.apk",
