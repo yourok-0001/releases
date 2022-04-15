@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.103",
+    "versionInt": 103,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.103-release.apk",
+    "desc": "- Добавлены опции использования прокси-сервера для TMDB (для включения нажмите на пункте Информация о видео TMDB в Настройках NUM)\n- Исправлены некоторые падения\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.102",
     "versionInt": 102,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.102-release.apk",
