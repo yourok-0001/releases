@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.104",
+    "versionInt": 104,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.104-release.apk",
+    "desc": "- Добавлена авторизация в настройки прокси\n- Исправление ошибок\n- Новый прокси по умолчанию (спасибо @steinus)- Как обычно все сломали и ничего не работает после обновления\n\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.103",
     "versionInt": 103,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.103-release.apk",
