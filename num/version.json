@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.105",
+    "versionInt": 105,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.105-release.apk",
+    "desc": "- Изменения в прокси для TMDB\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.104",
     "versionInt": 104,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.104-release.apk",
