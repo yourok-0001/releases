@@ -1,5 +1,11 @@
 [
   {
+    "version": "MatriX.115",
+    "versionInt": 115,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.115.Client/TorrServe_MatriX.115.Client-release.apk",
+    "desc": "- Плейлист в MX плеер\n- Добавлена поддержка vimuhd бесплатного\n- Улучшение в проверки рута\n\nСпасибо @tsynik"
+  },
+  {
     "version": "MatriX.114",
     "versionInt": 114,
     "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.114.Client/TorrServe_MatriX.114.Client-release.apk",
